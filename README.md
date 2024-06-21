@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Developing a machine learning system for fraud detection and customer segmentation using advanced algorithms.<br>👯 Innovative machine learning projects and API development.<br>🤝 Enhancing the performance of ML models and implementing cutting-edge ML techniques.<br>🌱 Advanced ML Algorithms and Agile methodologies.<br>💬 API development and Data Structures & Algorithms (DSA).<br>⚡ I am tenacious and love diving deep into complex problem-solving scenarios!
+🔭 Developing a Machine learning system for fraud detection and customer segmentation using advanced algorithms.<br>👯 Innovative machine learning projects and API development.<br>🤝 Enhancing the performance of ML models and implementing cutting-edge ML techniques.<br>🌱 Advanced ML Algorithms and Agile methodologies.<br>💬 API development and Data Structures & Algorithms (DSA).<br>⚡ I am tenacious and love diving deep into complex problem-solving scenarios!
 
 
 ## 🌐 Socials:
